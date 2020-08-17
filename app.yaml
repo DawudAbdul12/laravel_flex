@@ -12,11 +12,10 @@ env_variables:
   # Put production environment variables here.
   APP_LOG: errorlog
   APP_KEY: base64:RakCSny7reRPHPObAf+yfahPa2bFZZMib40JGzDVidU=
-
   CACHE_DRIVER: database
   SESSION_DRIVER: database
   ## Set these environment variables according to your CloudSQL configuration.
-  DB_HOST: 127.0.0.1
+  DB_HOST: localhost
   DB_DATABASE: wholesome
   DB_USERNAME: root
   DB_PASSWORD: Concord@123
