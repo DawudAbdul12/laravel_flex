@@ -12,7 +12,6 @@ env_variables:
   APP_LOG: errorlog
   APP_DEBUG: true
   APP_KEY: base64:RakCSny7reRPHPObAf+yfahPa2bFZZMib40JGzDVidU=
-  STORAGE_DIR: /tmp
   CACHE_DRIVER: file
   SESSION_DRIVER: database
   DB_CONNECTION: mysql
